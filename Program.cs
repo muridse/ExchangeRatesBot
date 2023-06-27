@@ -16,7 +16,7 @@ namespace ExchangeRates
             });
 
 
-            new TelegramBot("5936310004:AAGYt5GEFSvX9qfMvJtNl7x8MtZLKSMcrpA");
+            new TelegramBot("TOKEN");
             app.Run();
         }
     }
