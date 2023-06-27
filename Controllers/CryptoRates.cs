@@ -3,7 +3,7 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Threading;
 
-namespace WebApplication5
+namespace ExchangeRates
 {
     public static class CryptoRates
     {

@@ -2,7 +2,7 @@
 using System.Text.Json.Serialization;
 using System.Threading;
 
-namespace WebApplication5
+namespace ExchangeRates
 {
     public static class ExchangeRates
     {
